@@ -8,7 +8,7 @@ I try to take everything in the world of programming or not :) and I always make
 
 *   🌍  I'm based in Mashhad
 *   ✉️  You can contact me at [cloner.1383@gmail.com](mailto:cloner.1383@gmail.com)
-*   🧠  I'm learning C# & Lua
+*   🧠  I'm learning C# 
 
 
 ### Skills
